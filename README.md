@@ -3,7 +3,7 @@
 <br/>
 <br/>
 
-## Hey, I'm <a href="https://aakarsh.me" target="_blank">Ariel</a>!
+## Find me !!
 
 <a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="45px" src="https://github.com/arielBravo123/arielBravo123/blob/main/icons8-facebook-96.png" /></a>
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="45px" src="https://github.com/arielBravo123/arielBravo123/blob/main/icons8-linkedin-48.png" />
