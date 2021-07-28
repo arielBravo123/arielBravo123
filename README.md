@@ -19,7 +19,7 @@
 
 💡 &nbsp; I am a person with a keen interest in how data shapes our lives. I am passionate about all fields where data has a great impact.Another of my passions is web development. I have successfully carried out two real projects and many other academic ones. I help companies and people bring their ideas to life. Every day I am aware of new technologies in this fast-changing area.\
 🎓 &nbsp;I'm currently studying Systems engineer at University of Cuenca, Ecuador (2015-2021).\
- :scientist: 
+ :scientist: I also have two specializations. One in Project Management at the University of Monterrey and another in Data Science at the University of Michigan.\
 🌱 &nbsp;I'm on track for learning more about Mobile Development, Web Development and Data Science.
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
 ✉️ &nbsp;You can email me at bravoariel1234@gmail.com. I'll try to respond as soon as possible!\
