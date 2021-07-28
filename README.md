@@ -1,10 +1,9 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=HEY,%20I'M%20Ariel&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=HEY,%20I'M%20ARIEL&width=1200&height=400)](https://github.com/Akshay090/svg-banners)
 
 <br/>
 <br/>
 
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
-(Use dark theme to find my socials ;)
+## Hey, I'm <a href="https://aakarsh.me" target="_blank">Ariel</a>!
 
 <a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="45px" src="https://github.com/arielBravo123/arielBravo123/blob/main/icons8-facebook-96.png" /></a>
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="45px" src="https://github.com/arielBravo123/arielBravo123/blob/main/icons8-linkedin-48.png" />
