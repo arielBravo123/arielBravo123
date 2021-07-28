@@ -27,10 +27,10 @@
 - [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
 <!-- BLOG-POST-LIST:END -->
 <br />
-<br />
+
 
 ---
-## 
+#### 
 TECHNOLOGY STACK I USE
  
  ### Data Science
