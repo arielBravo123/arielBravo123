@@ -52,8 +52,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white)
 
 ### Backend
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
