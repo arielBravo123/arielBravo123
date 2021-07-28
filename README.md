@@ -17,8 +17,7 @@
  
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and researcher at VNIT Nagpur, currently working in the field of adaptive sensing and multimodal detection of human behavioral
-patterns.\
+💡 &nbsp; I am a person with a keen interest in how data shapes our lives. I am passionate about all fields where data has a great impact.Another of my passions is web development. I have successfully carried out two real projects and many other academic ones. I help companies and people bring their ideas to life. Every day I am aware of new technologies in this fast-changing area.\
 🎓 &nbsp;I'm currently studying Computer Science and Engineering at Visvesvaraya National Institute of Technology, Nagpur (2017-2021).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
