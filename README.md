@@ -30,7 +30,7 @@
 
 
 ---
-## TECHNOLOGY STACK I USE
+## ⚡ TECHNOLOGY STACK I USE
  
 ### Data Science
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
