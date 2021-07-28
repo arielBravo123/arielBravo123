@@ -32,7 +32,7 @@
 ---
 ## TECHNOLOGY STACK I USE
  
- ### Data Science
+### Data Science
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
