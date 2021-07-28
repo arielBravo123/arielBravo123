@@ -26,9 +26,13 @@
 - [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
 - [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
 <!-- BLOG-POST-LIST:END -->
+<br />
+<br />
 
-<br/>
-
+---
+## 
+TECHNOLOGY STACK I USE
+ 
  ### Data Science
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
