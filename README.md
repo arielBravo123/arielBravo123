@@ -5,7 +5,7 @@
 
 ### Find me !!
 
-<a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="45px" src="https://github.com/arielBravo123/arielBravo123/blob/main/icons8-facebook-96.png" /></a>
+<a href="https://www.facebook.com/ariel.bravo.3994/" target="_blank"><img align="left" alt="aakarsh.me" width="45px" src="https://github.com/arielBravo123/arielBravo123/blob/main/icons8-facebook-96.png" /></a>
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="45px" src="https://github.com/arielBravo123/arielBravo123/blob/main/icons8-linkedin-48.png" />
 <a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="45px" src="https://github.com/arielBravo123/arielBravo123/blob/main/icons8-instagram-48.png" />
 <a href="https://medium.com/@aakarshbiju" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="45px" src="https://github.com/arielBravo123/arielBravo123/blob/main/icons8-medium-48.png" /></a>
