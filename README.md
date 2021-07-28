@@ -1,4 +1,4 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=HEY, I'M ARIEL BRAVO🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <br/>
 <br/>
 
