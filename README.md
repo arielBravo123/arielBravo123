@@ -18,12 +18,11 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I am a person with a keen interest in how data shapes our lives. I am passionate about all fields where data has a great impact.Another of my passions is web development. I have successfully carried out two real projects and many other academic ones. I help companies and people bring their ideas to life. Every day I am aware of new technologies in this fast-changing area.\
-🎓 &nbsp;I'm currently studying Computer Science and Engineering at Visvesvaraya National Institute of Technology, Nagpur (2017-2021).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
-✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
+🎓 &nbsp;I'm currently studying Systems engineer at University of Cuenca, Ecuador (2015-2021).\
+ :scientist: 
+🌱 &nbsp;I'm on track for learning more about Mobile Development, Web Development and Data Science.
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
-✉️ &nbsp;You can email me at dhadwal1507@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1w5AblZq-laLRa9Cdq2qUtNwD8jIsvRlQ/view?usp=sharing) for more details about work experience.
+✉️ &nbsp;You can email me at bravoariel1234@gmail.com. I'll try to respond as soon as possible!\
 
 
 ---
