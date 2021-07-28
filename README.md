@@ -15,17 +15,16 @@
 <br />
 <br />
  
- ### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
-### 📕 Latest Blog Post
-
-<!-- BLOG-POST-LIST:START -->
-- [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2)
-- [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2)
-- [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2)
-- [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2)
-<!-- BLOG-POST-LIST:END -->
-<br />
+💡 &nbsp; I'm a software developer and researcher at VNIT Nagpur, currently working in the field of adaptive sensing and multimodal detection of human behavioral
+patterns.\
+🎓 &nbsp;I'm currently studying Computer Science and Engineering at Visvesvaraya National Institute of Technology, Nagpur (2017-2021).\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
+✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+✉️ &nbsp;You can email me at dhadwal1507@gmail.com. I'll try to respond as soon as possible!\
+📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1w5AblZq-laLRa9Cdq2qUtNwD8jIsvRlQ/view?usp=sharing) for more details about work experience.
 
 
 ---
