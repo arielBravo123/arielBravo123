@@ -88,7 +88,7 @@
 
 
 
-### Now Playing 🎧
+### Now Playing 🎧🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=h5xclfcr1nr4olu6tj2hx4hij&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <br/>
 ---
